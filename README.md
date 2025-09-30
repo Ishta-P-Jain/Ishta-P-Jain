@@ -1,23 +1,32 @@
+# Hi 👋, I'm Ishta  
 
+🌟 Aspiring Full Stack Developer | 💻 CSE Student  
 
-# Hi, I'm Ishta P Jain 👋  
-🎓 B.Tech CSE Student | 💻 Full-Stack Development Enthusiast 
+---
 
+## 🚀 About Me  
+- 🎓 2nd Year B.Tech CSE Student  
+- 🌱 Currently learning **Data Structures in C** & **OOPs in Java**  
+- 🛠️ Building projects and learning 
+- 💡 Passionate about **Hackathons & Open Source**  
+---
 
+## 🛠️ Tech Stack  
+- **Languages:** C, Java, Python, JavaScript  
+- **Frontend:** HTML, CSS, React   
+- **Tools:** Git, GitHub, VS Code  
 
+---
 
+## 🌐 Connect with Me  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ishta-p-jain)  
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/istajain?t=851KCNuiyR9PxNKWpBJ1Ww&s=08)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ishta.p.jain006@gemail.com)  
 
-<!--
-**Ishta-P-Jain/Ishta-P-Jain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 📊 GitHub Stats  
+![Ishta's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ishta-P-Jain&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ishta-P-Jain&layout=compact&theme=radical)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
