@@ -1,4 +1,11 @@
-## Hi there 👋
+
+
+# Hi, I'm Ishta P Jain 👋  
+🎓 B.Tech CSE Student | 💻 Full-Stack Development Enthusiast 
+
+
+
+
 
 <!--
 **Ishta-P-Jain/Ishta-P-Jain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
