@@ -1,4 +1,4 @@
-# Hi 👋, I'm Ishta  
+#  I'm Ishta  
 
 🌟 Aspiring Full Stack Developer | 💻 CSE Student  
 
@@ -11,12 +11,7 @@
 - 💡 Passionate about **Hackathons & Open Source**  
 ---
 
-## 🛠️ Tech Stack  
-- **Languages:** C, Java, Python, JavaScript  
-- **Frontend:** HTML, CSS, React   
-- **Tools:** Git, GitHub, VS Code  
 
----
 
 ## 🌐 Connect with Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ishta-p-jain)  
