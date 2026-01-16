@@ -20,8 +20,10 @@
 
 ---
 
-## 📊 GitHub Stats  
-![Ishta's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ishta-P-Jain&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ishta-P-Jain&layout=compact&theme=radical)  
+## 📊 GitHub Activity
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ishta-P-Jain&show_icons=true&include_all_commits=true&count_private=true&theme=radical)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Ishta-P-Jain&theme=radical)
 
 ---
