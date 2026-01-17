@@ -6,7 +6,6 @@
 
 ## 🚀 About Me  
 - 🎓 2nd Year B.Tech CSE Student  
-- 🌱 Currently learning **Data Structures in C** & **OOPs in Java**  
 - 🛠️ Building projects and learning 
 - 💡 Passionate about **Hackathons & Open Source**  
 ---
