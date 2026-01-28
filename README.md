@@ -19,10 +19,4 @@
 
 ---
 
-## 📊 GitHub Activity
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ishta-P-Jain&show_icons=true&include_all_commits=true&count_private=true&theme=radical)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Ishta-P-Jain&theme=radical)
-
----
