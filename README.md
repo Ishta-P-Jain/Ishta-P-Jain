@@ -13,8 +13,8 @@
 ---
 
 ## 🧰 Skills  
-- **Languages:** HTML, CSS, JavaScript, Java, Python  
-- **Tools:** Git, GitHub, VS Code  
+- **Languages:**  HTML, CSS, JavaScript, Java, Python  
+- **Tools:**  Git, GitHub, VS Code  
 
 ---
 
