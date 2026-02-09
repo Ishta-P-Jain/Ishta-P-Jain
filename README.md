@@ -1,4 +1,4 @@
-# 👋 I'm Ishta Jain
+# 👋 I'm Ishta 
 
 🌟 Aspiring Full Stack Developer | 💻 B.Tech CSE Student  
 
